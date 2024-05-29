@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Serenitatis", "Serenitatis\Serenitatis.csproj", "{6A6A5E3F-A9E0-428B-ABD1-5D6715718167}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Serenitatis.Tests", "Serenitatis.Tests\Serenitatis.Tests.csproj", "{5057AF09-7BEE-4787-9B72-0553BACCCFF5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6A6A5E3F-A9E0-428B-ABD1-5D6715718167}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A6A5E3F-A9E0-428B-ABD1-5D6715718167}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A6A5E3F-A9E0-428B-ABD1-5D6715718167}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A6A5E3F-A9E0-428B-ABD1-5D6715718167}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5057AF09-7BEE-4787-9B72-0553BACCCFF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5057AF09-7BEE-4787-9B72-0553BACCCFF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5057AF09-7BEE-4787-9B72-0553BACCCFF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5057AF09-7BEE-4787-9B72-0553BACCCFF5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
